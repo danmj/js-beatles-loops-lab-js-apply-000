@@ -16,6 +16,7 @@ var facts = [
   ];
   
 var johnLennonFacts = function(exclamations) {
-  var i = 0
+  var i = 0;
+  var
 }
 }
