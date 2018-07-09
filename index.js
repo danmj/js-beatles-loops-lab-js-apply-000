@@ -14,15 +14,18 @@ function johnLennonFacts() {
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
-];
+  ];
+  
   const foo = [
     "foo",
-    "bar"]
-  var exclamation = []
-  var i = 0
+    "bar"
+  ];
+  
+  var exclamation = [];
+  var i = 0;
   while (i < facts.length) {
-    exclamation.push(facts[i] + "!!!")
-    i++
+    exclamation.push(facts[i] + "!!!");
+    i++;
   }
   return exclamation
 }
