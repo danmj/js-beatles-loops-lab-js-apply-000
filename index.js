@@ -15,6 +15,9 @@ function johnLennonFacts() {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
+  const foo = [
+    "foo",
+    "bar"]
   var exclamation = []
   var i = 0
   while (i < facts.length) {
