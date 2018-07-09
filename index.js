@@ -23,6 +23,7 @@ var johnLennonFacts = function(facts) {
   while (arrayLength > 0) {
     exclamations.push(facts[i] + "!!!")
     i++;
+    arrayLength--;
   }
 }
 }
