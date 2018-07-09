@@ -31,5 +31,14 @@ var johnLennonFacts = function(factoid) {
 johnLennonFacts(facts)
 
 
-var iLoveTheBeatles = function(number) {
+function iLoveTheBeatles(number) {
+  var count = [];
+  do {
+    count.push("I love the Beatles!");
+    number++
+  }
+  while(number < 15);
+  return count;
   
+  }
+}
