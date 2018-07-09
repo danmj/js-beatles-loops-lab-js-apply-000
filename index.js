@@ -16,11 +16,6 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
   ];
   
-  const foo = [
-    "foo",
-    "bar"
-  ];
-  
   var exclamation = [];
   var i = 0;
   while (i < facts.length) {
@@ -28,12 +23,4 @@ function johnLennonFacts() {
     i++;
   }
   return exclamation
-  
-  var exclamations = [];
-  var j = 0;
-  while (j < foo.length) {
-    exclamations.push(foo[j] + "!!!");
-    i++;
-  }
-  return exclamations
 }
