@@ -39,6 +39,11 @@ var iLoveTheBeatles = function(number) {
   }
   var i = 0;
   do {
-    
+    newarray.push("I love the Beatles!");
+    i++;
   }
+  while(i < number);
+  return(newarray);
 }
+
+iLoveTheBeatles()
