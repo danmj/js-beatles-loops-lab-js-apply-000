@@ -28,4 +28,12 @@ function johnLennonFacts() {
     i++;
   }
   return exclamation
+  
+  var exclamations = [];
+  var j = 0;
+  while (j < foo.length) {
+    exclamations.push(foo[j] + "!!!");
+    i++;
+  }
+  return exclamations
 }
