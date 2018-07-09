@@ -21,4 +21,5 @@ function johnLennonFacts() {
     factoid.push(facts[i] + "!!!")
    i++
   }
+  return factoid
 }
