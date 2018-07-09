@@ -25,5 +25,6 @@ var johnLennonFacts = function(facts) {
     i++;
     arrayLength--;
   }
-  return
+  return(exclamations);
 }
+
