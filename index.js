@@ -34,7 +34,7 @@ johnLennonFacts(facts)
 var iLoveTheBeatles = function(number) {
   var newarray = [];
   number++;
-  if (number === 18) {
+  if (number === 15) {
     return("I love the Bealtes!")
   }
   var i = 0;
