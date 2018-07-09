@@ -46,4 +46,4 @@ var iLoveTheBeatles = function(number) {
   return(newarray);
 }
 
-iLoveTheBeatles(7);
+iLoveTheBeatles();
