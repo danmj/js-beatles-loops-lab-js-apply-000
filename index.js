@@ -15,11 +15,11 @@ function johnLennonFacts() {
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-  var factoid = []
+  var exclamation = []
   var i = 0
   while (i < facts.length) {
-    factoid.push(facts[i] + "!!!")
+    exclamation.push(facts[i] + "!!!")
     i++
   }
-  return factoid
+  return exclamation
 }
