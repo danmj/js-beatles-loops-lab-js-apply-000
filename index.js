@@ -15,12 +15,5 @@ var facts = [
   "He hated the sound of his own voice"
   ];
   
-function johnLennonFacts() {
-  var exclamation = [];
-  var i = 0;
-  while (i < facts.length) {
-    exclamation.push(facts[i] + "!!!");
-    i++;
-  }
-  return exclamation
+
 }
