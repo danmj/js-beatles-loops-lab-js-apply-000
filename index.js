@@ -15,8 +15,11 @@ var facts = [
   "He hated the sound of his own voice"
   ];
   
-var johnLennonFacts = function(exclamations) {
+var johnLennonFacts = function(facts) {
   var i = 0;
-  var arrayLength
+  var arrayLength = facts.length
+  var exclamations = [];
+  
+  while (arrayLength)
 }
 }
