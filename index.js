@@ -19,5 +19,6 @@ function johnLennonFacts() {
   const i = 0
   while (i < facts.length) {
     factoid.push(facts[i] + "!!!")
+   i++
   }
 }
