@@ -17,5 +17,5 @@ function johnLennonFacts() {
 ];
   const factoid = []
   const i = 0
-  while 
+  while (i < )
 }
