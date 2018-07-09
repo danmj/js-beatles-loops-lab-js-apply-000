@@ -32,18 +32,4 @@ johnLennonFacts(facts)
 
 
 var iLoveTheBeatles = function(number) {
-  var newarray = [];
-  number++;
-  if (number <15) {
-    return("I love the Bealtes!")
-  }
-  var i = 0;
-  do {
-    newarray.push("I love the Beatles!");
-    i++;
-  }
-  while(i < number);
-  return(newarray);
-}
-
-iLoveTheBeatles();
+  
