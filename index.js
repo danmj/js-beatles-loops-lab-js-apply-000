@@ -28,3 +28,4 @@ var johnLennonFacts = function(facts) {
   return(exclamations);
 }
 
+johnLennonFacts(fact)
