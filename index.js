@@ -31,4 +31,14 @@ var johnLennonFacts = function(factoid) {
 johnLennonFacts(facts)
 
 
-var iLoveTheBeatles = function()
+var iLoveTheBeatles = function(number) {
+  var newarray = [];
+  number++;
+  if (number === 18) {
+    return("I love the Bealtes!")
+  }
+  var i = 0;
+  do {
+    
+  }
+}
