@@ -15,17 +15,17 @@ var facts = [
   "He hated the sound of his own voice"
   ];
   
-var johnLennonFacts = function(facts) {
+var johnLennonFacts = function(factoid) {
   var i = 0;
-  var arrayLength = facts.length
+  var arrayLength = factoid.length
   var exclamations = [];
   
   while (arrayLength > 0) {
-    exclamations.push(facts[i] + "!!!")
+    exclamations.push(factoid[i] + "!!!")
     i++;
     arrayLength--;
   }
   return(exclamations);
 }
 
-johnLennonFacts(fact)
+johnLennonFacts(facts)
