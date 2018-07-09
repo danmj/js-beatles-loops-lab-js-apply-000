@@ -20,6 +20,6 @@ var johnLennonFacts = function(facts) {
   var arrayLength = facts.length
   var exclamations = [];
   
-  while (arrayLength)
+  while (arrayLength > 0)
 }
 }
