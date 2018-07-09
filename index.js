@@ -15,5 +15,7 @@ var facts = [
   "He hated the sound of his own voice"
   ];
   
-
+var johnLennonFacts = function(exclamations) {
+  var i = 0
+}
 }
